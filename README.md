@@ -1,11 +1,11 @@
-# Glee-website
+### Glee-website
 hacktoberfest 2020 escape the loop compititon 
 
-#Set up
+##Set up
 Requirements:
 Localhost server
 
-#After the above requirements have been met:
+##After the above requirements have been met:
 
 1. Clone this repository and Setup the Website
 
@@ -18,14 +18,14 @@ You can find the source codes and all the necessary css files here.
 Run the signup.php file or login.php file
 
 
-#Contributing
+##Contributing
 This project is open source and welcomes contributions.
 
-#Visit the project on GitHub
+##Visit the project on GitHub
 https://github.com/NimayaPerera/Glee-website.git
 
-#License
+##License
 MIT
 
-Disclaimer
+##Disclaimer
 No warranty expressed or implied. Software is as is.
