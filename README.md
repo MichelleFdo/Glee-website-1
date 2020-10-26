@@ -1,6 +1,10 @@
 # Glee-website
 hacktoberfest 2020 escape the loop compititon 
+
+
 About the glee
+
+
 With the current situation in the world, we will often have to stay home. for those of us who work outside the home, spending time at home can be like being in a prison cell. we need to spend our days without stress and without wasting time. many people are accustomed to using social media. we think it is monotonous. as a solution, we thought of filling many different things in one place.
 We want to create a website by adding several things. That's called Glee. the main purpose of this is to spend time without wasting time and thereby develop people's imagination in some way. it includes several elements.
 
