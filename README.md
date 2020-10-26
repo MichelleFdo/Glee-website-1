@@ -29,3 +29,6 @@ MIT
 
 ## Disclaimer
 No warranty expressed or implied. Software is as is.
+
+#UI DESIGN FOR SELECTED PREVIEWS
+![READ](https://user-images.githubusercontent.com/54572453/97212463-781cc380-17e6-11eb-8be3-4afbd1e35db1.PNG)
